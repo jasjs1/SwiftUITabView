@@ -1,4 +1,4 @@
-// Make sure 
+// Make sure that you change the text and system images :)
 
 import SwiftUI
 
