@@ -1,4 +1,5 @@
 // Make sure that you change the text and system images :)
+// Where ever "ph" change and put my own input there
 
 import SwiftUI
 
@@ -7,18 +8,17 @@ struct ResturantAppApp: App {
     var body: some Scene {
         WindowGroup {
             TabView {
-                ContentView() // This will chang
+                ph()
                     .tabItem {
-                        Image(systemName: "cup.and.saucer.fill") // This will change
-                        Text("Appitizers") // This will change
+                        Image(systemName: "ph") // This will change
+                        Text("ph")
                     }
-                EntreeView() // This will change
+                ph() // This will change
                     .tabItem {
-                        Image(systemName: "fork.knife.circle.fill") // This will change
-                        Text("Entrees") // This will change
+                        Image(systemName: "ph") // This will change
+                        Text("ph") // This will change
                     }
             }
         }
     }
 }
-
