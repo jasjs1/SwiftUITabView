@@ -10,13 +10,13 @@ struct ResturantAppApp: App {
             TabView {
                 ph()
                     .tabItem {
-                        Image(systemName: "ph") // This will change
+                        Image(systemName: "ph") 
                         Text("ph")
                     }
-                ph() // This will change
+                ph()
                     .tabItem {
-                        Image(systemName: "ph") // This will change
-                        Text("ph") // This will change
+                        Image(systemName: "ph") 
+                        Text("ph") 
                     }
             }
         }
