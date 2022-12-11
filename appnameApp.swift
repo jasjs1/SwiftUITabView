@@ -4,7 +4,7 @@
 import SwiftUI
 
 @main
-struct ResturantAppApp: App {
+struct MyApp: App {
     var body: some Scene {
         WindowGroup {
             TabView {
