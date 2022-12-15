@@ -1,9 +1,3 @@
-//
-//  FoodTruckApp.swift
-//  FoodTruck
-//
-//  Created by Jayce Sagvold on 12/11/22.
-//
 
 
 import SwiftUI
@@ -26,10 +20,3 @@ struct MyApp: App {
         }
     }
 }
-
-
-// ContentView tabitem {
-
-//Image(systemName: "box.truck.fill")
-
-//Text("Near by food trucks")
