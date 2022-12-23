@@ -9,11 +9,11 @@ struct MyApp: App {
             TabView {
                 ContentView()
                     .tabItem {
-                        Label("Nearby Foodtrucks", systemImage: "box.truck.fill")
+                        Label("ph", systemImage: "SFSymols Image Here")
                     }
                 SettingsView()
                     .tabItem {
-                        Label("Settings", systemImage: "gear")
+                        Label("ph", systemImage: "SFSymbols image here")
                         
                     }
             }
