@@ -11,7 +11,7 @@ struct MyApp: App {
                     .tabItem {
                         Label("ph", systemImage: "SFSymols Image Here")
                     }
-                SettingsView()
+                ViewName()
                     .tabItem {
                         Label("ph", systemImage: "SFSymbols image here")
                         
